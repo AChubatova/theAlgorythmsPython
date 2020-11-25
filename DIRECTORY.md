@@ -600,6 +600,10 @@
     * [Solution42](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_42/solution42.py)
   * Problem 43
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_43/sol1.py)
+  * Problem 44
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_44/sol1.py)
+  * Problem 46
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_46/sol1.py)
   * Problem 47
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_47/sol1.py)
   * Problem 48
@@ -673,7 +677,6 @@
   * [Recursive Insertion Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/recursive_insertion_sort.py)
   * [Selection Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/selection_sort.py)
   * [Shell Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/shell_sort.py)
-  * [Sleep Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/sleep_sort.py)
   * [Stooge Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/stooge_sort.py)
   * [Strand Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/strand_sort.py)
   * [Tim Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/tim_sort.py)
@@ -715,6 +718,7 @@
   * [Emails From Url](https://github.com/TheAlgorithms/Python/blob/master/web_programming/emails_from_url.py)
   * [Fetch Bbc News](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_bbc_news.py)
   * [Fetch Github Info](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_github_info.py)
+  * [Fetch Jobs](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_jobs.py)
   * [Get Imdb Top 250 Movies Csv](https://github.com/TheAlgorithms/Python/blob/master/web_programming/get_imdb_top_250_movies_csv.py)
   * [Get Imdbtop](https://github.com/TheAlgorithms/Python/blob/master/web_programming/get_imdbtop.py)
   * [Slack Message](https://github.com/TheAlgorithms/Python/blob/master/web_programming/slack_message.py)
