@@ -1,3 +1,4 @@
+pytest
 beautifulsoup4
 black
 fake_useragent
