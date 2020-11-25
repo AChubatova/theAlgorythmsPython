@@ -1,6 +1,5 @@
 class Heap:
-    """A generic Heap class, can be used as min or max by passing the key function accordingly.
-    """
+    """A generic Heap class, can be used as min or max by passing the key function accordingly."""
 
     def __init__(self, key=None):
         # Stores actual heap items.

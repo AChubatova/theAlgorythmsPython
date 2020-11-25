@@ -4,12 +4,12 @@ import unittest
 def find_lcm(first_num: int, second_num: int) -> int:
     """Find the least common multiple of two numbers.
 
-       Learn more: https://en.wikipedia.org/wiki/Least_common_multiple
+    Learn more: https://en.wikipedia.org/wiki/Least_common_multiple
 
-       >>> find_lcm(5,2)
-       10
-       >>> find_lcm(12,76)
-       228
+    >>> find_lcm(5,2)
+    10
+    >>> find_lcm(12,76)
+    228
     """
     max_num = first_num if first_num >= second_num else second_num
     common_mult = max_num

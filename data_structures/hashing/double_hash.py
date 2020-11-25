@@ -6,7 +6,7 @@ from number_theory.prime_numbers import next_prime, check_prime
 
 class DoubleHash(HashTable):
     """
-        Hash Table example with open addressing and Double Hash
+    Hash Table example with open addressing and Double Hash
     """
 
     def __init__(self, *args, **kwargs):

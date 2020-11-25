@@ -25,7 +25,7 @@ class BoyerMooreSearch:
         self.textLen, self.patLen = len(text), len(pattern)
 
     def match_in_pattern(self, char):
-        """ finds the index of char in pattern in reverse order
+        """finds the index of char in pattern in reverse order
 
         Parameters :
             char (chr): character to be searched
@@ -41,7 +41,7 @@ class BoyerMooreSearch:
         return -1
 
     def mismatch_in_text(self, currentPos):
-        """ finds the index of mis-matched character in text when compared with pattern from last
+        """finds the index of mis-matched character in text when compared with pattern from last
 
         Parameters :
             currentPos (int): current index position of text
